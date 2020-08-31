@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :smile: I'm Akshhat Srivastava, I'm a final year engineering undergraduate :construction_worker:
+
+- :star_struck: I am interested in UX/UI Design, Computer Networks, Software Development and Engineering. I'm currently working as a freelance UX Designer at [Powerupcloud Technologies](https://www.powerupcloud.com/) where I design and prototype new interfaces for cloud products and also get to work with chatbots occasionally.
+
+- :star: I’ll be graduating in Summer 2021 and looking for **Full-time opportunities** in Software development and engineering :raising_hand:. I’m interested in solving problems and building software that impact people around me :raised_hands: 
+
+- :handshake: Connect with me on [Twitter](https://twitter.com/AkshhatS) or [LinkedIn](https://www.linkedin.com/in/akshhat/)
